@@ -1,6 +1,6 @@
 names = [
-    'Teresa'
-    'Henry'
+    'Teresa',
+    'Henry',
     'Jaden'
 ]
 
@@ -11,4 +11,3 @@ names = [
 length = {name:len(name) for name in names} 
 print(length)
 
-woohoo
